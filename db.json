@@ -1,0 +1,22 @@
+{
+  "user": [
+    {
+      "username": "vikas gupta",
+      "age": "09",
+      "Address": "ravindra nagar",
+      "Department": "IT Sector",
+      "Salary": "40000",
+      "maritalstate": "wood",
+      "id": 1
+    },
+    {
+      "username": "raj gupta",
+      "age": "09",
+      "Address": "ravindra nagar",
+      "Department": "IT Sector",
+      "Salary": "80000",
+      "maritalstate": "steel",
+      "id": 2
+    }
+  ]
+}
